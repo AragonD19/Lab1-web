@@ -20,3 +20,9 @@ Traduzcan la siguiente frase a clave morse: ye shall be as gods
 
 -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
 
+
+
+¿Cuál es el output de éste programa de Brainf*ck
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++>.+++.------.--------.>+.>.
+
+El mensase resultante es: Hello World!
