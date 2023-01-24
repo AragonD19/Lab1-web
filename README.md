@@ -13,3 +13,10 @@ Su pelo esta formado por "===" y "@@"
 Busquen en usenet y escojan algún post interesante
 
 595df Color games for Mac II 1 comp.sys.mac         18-Oct-88 14:34
+
+
+
+Traduzcan la siguiente frase a clave morse: ye shall be as gods
+
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
