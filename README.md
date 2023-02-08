@@ -1,6 +1,12 @@
 En zork, ¿qué hay al subir las gradas dentro de la casa? 
 
-No se puede subir las escaleras pero al bajar por una trampilla que estaba debajo de la alfombra de la casa estan la puerta al hades.
+cuando subo al atico esto es lo que hay.
+
+Attic
+This is the attic. The only exit is stairs that lead down.
+There is a square brick here which feels like clay.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
 
 
 
